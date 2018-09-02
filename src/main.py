@@ -1,4 +1,4 @@
-import main_ui
+from src import main_ui
 import sys
 from PyQt5.QtWidgets import QApplication, QMainWindow
 
